@@ -1,6 +1,7 @@
 Welcome to my GitHub repository for Data Structures and Algorithms (DSA)! This repository contains a comprehensive collection of solutions to problems sourced from LeetCode and GeeksforGeeks. Each problem has been solved while following the Supreme 2.0 DSA Course, reflecting a deep dive into a wide array of DSA topics.
-
+</br>
 Repository Overview
+<br>
 In this repository, you'll find:
 </br>
 1)Patterns: Solutions to various pattern problems and their applications.
