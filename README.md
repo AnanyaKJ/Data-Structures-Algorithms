@@ -3,8 +3,8 @@ Welcome to my GitHub repository for Data Structures and Algorithms (DSA)! This r
 Repository Overview
 In this repository, you'll find:
 
-1)Patterns: Solutions to various pattern problems and their applications.
-2)Arrays: Techniques and problems related to arrays, including operations and manipulations.
+1)Patterns: Solutions to various pattern problems and their applications.\n
+2)Arrays: Techniques and problems related to arrays, including operations and manipulations.\n
 3)Searching and Sorting: Algorithms for searching and sorting, including binary search, quicksort, mergesort, etc.
 4)Strings: Solutions to string manipulation and pattern matching problems.
 5)Backtracking: Techniques for solving problems through systematic trial and error.
